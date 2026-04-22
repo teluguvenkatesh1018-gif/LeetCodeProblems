@@ -4,13 +4,13 @@ class Solution {
         int n= height.length;
         int left=1;
         int right=n-2;
-        int iMax=height[left-1];
+        int lMax=height[left-1];
         int rMax=height[right+1];
         int res=0;
         
         while(left<=right)
         {
-            if(rMax<=iMax)
+            if(rMax<=lMax)
             {
                 int water=rMax-height[right];
                 if(water>0)
@@ -22,12 +22,12 @@ class Solution {
             }
             else
             {
-               int water=iMax-height[left];
+               int water=lMax-height[left];
                 if(water>0)
             {
                 res=res + water;
             }
-            iMax= Math.max(iMax,height[left]);
+            lMax= Math.max(lMax,height[left]);
             left=left+1;
         }
         
