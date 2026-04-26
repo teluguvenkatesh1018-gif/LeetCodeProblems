@@ -1,0 +1,43 @@
+class Solution {
+    int m, n;
+    boolean[][] vis;
+    int[] dx = {1, -1, 0, 0};
+    int[] dy = {0, 0, 1, -1};
+
+    public boolean containsCycle(char[][] grid) {
+        m = grid.length;
+        n = grid[0].length;
+        vis = new boolean[m][n];
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (!vis[i][j]) {
+                    if (dfs(grid, i, j, -1, -1, grid[i][j])) {
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+
+    private boolean dfs(char[][] grid, int x, int y, int px, int py, char ch) {
+        vis[x][y] = true;
+
+        for (int d = 0; d < 4; d++) {
+            int nx = x + dx[d];
+            int ny = y + dy[d];
+
+            if (nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
+            if (grid[nx][ny] != ch) continue;
+
+            if (!vis[nx][ny]) {
+                if (dfs(grid, nx, ny, x, y, ch)) return true;
+            } else if (nx != px || ny != py) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}
