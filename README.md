@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
