@@ -1,59 +1,35 @@
-import java.util.*;
-
 class Solution {
     public int[][] rotateGrid(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;
-        int layers = Math.min(m, n) / 2;
 
-        for (int layer = 0; layer < layers; layer++) {
-            List<Integer> list = new ArrayList<>();
-
+        for (int layer = 0; layer < Math.min(m, n) / 2; layer++) {
             int top = layer, left = layer;
             int bottom = m - layer - 1;
             int right = n - layer - 1;
 
-            for (int j = left; j <= right; j++) {
-                list.add(grid[top][j]);
-            }
-
-            for (int i = top + 1; i < bottom; i++) {
-                list.add(grid[i][right]);
-            }
-
-            for (int j = right; j >= left; j--) {
-                list.add(grid[bottom][j]);
-            }
-
-            for (int i = bottom - 1; i > top; i--) {
-                list.add(grid[i][left]);
-            }
-
-            int len = list.size();
-            int rot = k % len;
-
-            List<Integer> rotated = new ArrayList<>();
-
-            for (int i = 0; i < len; i++) {
-                rotated.add(list.get((i + rot) % len));
-            }
-
+            int size = 2 * (bottom - top + right - left);
+            int[] arr = new int[size];
             int idx = 0;
 
-            for (int j = left; j <= right; j++) {
-                grid[top][j] = rotated.get(idx++);
-            }
+            for (int j = left; j <= right; j++) arr[idx++] = grid[top][j];
+            for (int i = top + 1; i < bottom; i++) arr[idx++] = grid[i][right];
+            for (int j = right; j >= left; j--) arr[idx++] = grid[bottom][j];
+            for (int i = bottom - 1; i > top; i--) arr[idx++] = grid[i][left];
 
-            for (int i = top + 1; i < bottom; i++) {
-                grid[i][right] = rotated.get(idx++);
-            }
+            int rot = k % size;
+            idx = 0;
 
-            for (int j = right; j >= left; j--) {
-                grid[bottom][j] = rotated.get(idx++);
-            }
+            for (int j = left; j <= right; j++)
+                grid[top][j] = arr[(idx++ + rot) % size];
 
-            for (int i = bottom - 1; i > top; i--) {
-                grid[i][left] = rotated.get(idx++);
-            }
+            for (int i = top + 1; i < bottom; i++)
+                grid[i][right] = arr[(idx++ + rot) % size];
+
+            for (int j = right; j >= left; j--)
+                grid[bottom][j] = arr[(idx++ + rot) % size];
+
+            for (int i = bottom - 1; i > top; i--)
+                grid[i][left] = arr[(idx++ + rot) % size];
         }
 
         return grid;
