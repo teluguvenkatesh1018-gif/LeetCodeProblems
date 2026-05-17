@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -121,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
