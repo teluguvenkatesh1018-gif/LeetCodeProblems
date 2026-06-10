@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [3225-maximum-score-from-grid-operations](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
