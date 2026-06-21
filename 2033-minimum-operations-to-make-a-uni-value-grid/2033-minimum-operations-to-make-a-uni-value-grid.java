@@ -2,6 +2,11 @@ import java.util.*;
 
 class Solution {
     public int minOperations(int[][] grid, int x) {
+        if (grid == null || grid.length == 0 || grid[0].length == 0) return 0;
+        if (x <= 0) {
+            throw new IllegalArgumentException("x must be positive");
+        }
+
         int m = grid.length, n = grid[0].length;
         int size = m * n;
         int[] arr = new int[size];

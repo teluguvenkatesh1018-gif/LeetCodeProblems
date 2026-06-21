@@ -1,7 +1,9 @@
 import java.util.Stack;
 public class Solution {
     public static boolean isValid(String s) {
-        
+        if (s == null) {
+            throw new IllegalArgumentException("Input string must not be null");
+        }
 
         Stack<Character> stack = new Stack<>();
 
