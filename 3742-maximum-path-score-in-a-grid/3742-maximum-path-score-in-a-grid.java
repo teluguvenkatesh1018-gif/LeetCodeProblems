@@ -1,6 +1,8 @@
 import java.util.*;
 
 class Solution {
+    private static final int[][] DIRS = {{1, 0}, {0, 1}};
+
     public int maxPathScore(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;
 
@@ -18,23 +20,15 @@ class Solution {
                 for (int cost = 0; cost <= k; cost++) {
                     if (dp[i][j][cost] == -1) continue;
 
-                    if (i + 1 < m) {
-                        int val = grid[i + 1][j];
-                        int newCost = cost + (val == 0 ? 0 : 1);
-                        if (newCost <= k) {
-                            dp[i + 1][j][newCost] = Math.max(
-                                dp[i + 1][j][newCost],
-                                dp[i][j][cost] + val
-                            );
-                        }
-                    }
+                    for (int[] dir : DIRS) {
+                        int ni = i + dir[0], nj = j + dir[1];
+                        if (ni >= m || nj >= n) continue;
 
-                    if (j + 1 < n) {
-                        int val = grid[i][j + 1];
+                        int val = grid[ni][nj];
                         int newCost = cost + (val == 0 ? 0 : 1);
                         if (newCost <= k) {
-                            dp[i][j + 1][newCost] = Math.max(
-                                dp[i][j + 1][newCost],
+                            dp[ni][nj][newCost] = Math.max(
+                                dp[ni][nj][newCost],
                                 dp[i][j][cost] + val
                             );
                         }

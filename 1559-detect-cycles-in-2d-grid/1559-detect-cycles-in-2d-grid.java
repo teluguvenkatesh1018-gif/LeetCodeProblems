@@ -1,8 +1,8 @@
+import utils.GridUtils;
+
 class Solution {
     int m, n;
     boolean[][] vis;
-    int[] dx = {1, -1, 0, 0};
-    int[] dy = {0, 0, 1, -1};
 
     public boolean containsCycle(char[][] grid) {
         m = grid.length;
@@ -25,10 +25,10 @@ class Solution {
         vis[x][y] = true;
 
         for (int d = 0; d < 4; d++) {
-            int nx = x + dx[d];
-            int ny = y + dy[d];
+            int nx = x + GridUtils.DX[d];
+            int ny = y + GridUtils.DY[d];
 
-            if (nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
+            if (!GridUtils.isInBounds(nx, ny, m, n)) continue;
             if (grid[nx][ny] != ch) continue;
 
             if (!vis[nx][ny]) {
