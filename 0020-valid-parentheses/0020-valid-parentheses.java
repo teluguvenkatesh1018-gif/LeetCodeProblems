@@ -20,7 +20,7 @@ public class Solution {
                     if (stack.isEmpty() || stack.pop() != '[') return false;
                     break;
                 default:
-                    // Optional: handle unexpected characters
+                    
                     return false;
             }
         }
