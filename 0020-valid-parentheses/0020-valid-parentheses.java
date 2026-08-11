@@ -28,8 +28,4 @@ public class Solution {
         return stack.isEmpty();
     }
 
-    public static void main(String[] args) {
-        String test = "{[()]}";
-        System.out.println("Is valid? " + isValid(test));
-    }
 }
