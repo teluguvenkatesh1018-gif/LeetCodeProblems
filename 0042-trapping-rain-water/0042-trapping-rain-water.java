@@ -1,6 +1,8 @@
 class Solution {
     public int trap(int[] height) 
     {
+        if (height == null || height.length < 3) return 0;
+
         int n= height.length;
         int left=1;
         int right=n-2;

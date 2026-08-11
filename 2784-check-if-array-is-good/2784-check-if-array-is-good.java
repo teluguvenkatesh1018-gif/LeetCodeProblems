@@ -2,6 +2,8 @@ import java.util.*;
 
 class Solution {
     public boolean isGood(int[] nums) {
+        if (nums == null || nums.length == 0) return false;
+
         Arrays.sort(nums);
 
         int n = nums[nums.length - 1];

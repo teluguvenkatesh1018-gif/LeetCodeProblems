@@ -1,5 +1,9 @@
 class Solution {
     public int strStr(String haystack, String needle) {
+        if (haystack == null || needle == null) {
+            throw new IllegalArgumentException("Input strings must not be null");
+        }
+
         int n = haystack.length();
         int m = needle.length();
 
