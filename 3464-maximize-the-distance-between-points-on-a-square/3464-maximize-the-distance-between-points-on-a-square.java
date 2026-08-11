@@ -1,4 +1,5 @@
 import java.util.*;
+import utils.SearchUtils;
 
 class Solution {
     public int maxDistance(int side, int[][] points, int k) {
@@ -45,7 +46,7 @@ class Solution {
 
             for (int pick = 1; pick < k; pick++) {
                 long target = last + d;
-                int next = lowerBound(posExt, target, i + 1, i + n);
+                int next = SearchUtils.lowerBound(posExt, target, i + 1, i + n);
                 if (next == -1) break;
                 last = posExt[next];
                 count++;
@@ -58,22 +59,5 @@ class Solution {
             }
         }
         return false;
-    }
-
-    private int lowerBound(long[] arr, long target, int left, int right) {
-        int l = left, r = right - 1;
-        int ans = -1;
-
-        while (l <= r) {
-            int mid = (l + r) >>> 1;
-            if (arr[mid] >= target) {
-                ans = mid;
-                r = mid - 1;
-            } else {
-                l = mid + 1;
-            }
-        }
-
-        return ans;
     }
 }

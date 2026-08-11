@@ -1,17 +1,10 @@
 import java.util.*;
+import utils.ArrayUtils;
 
 class Solution {
     public int minOperations(int[][] grid, int x) {
-        int m = grid.length, n = grid[0].length;
-        int size = m * n;
-        int[] arr = new int[size];
-        int idx = 0;
-
-        for (int[] row : grid) {
-            for (int val : row) {
-                arr[idx++] = val;
-            }
-        }
+        int[] arr = ArrayUtils.flattenGrid(grid);
+        int size = arr.length;
 
         int rem = arr[0] % x;
         for (int val : arr) {
