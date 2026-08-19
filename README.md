@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1914-cyclically-rotating-a-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2784-check-if-array-is-good](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2784-check-if-array-is-good](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
