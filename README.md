@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0015-3sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
