@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
 | ------- |
