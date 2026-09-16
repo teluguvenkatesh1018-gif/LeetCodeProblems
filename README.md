@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
