@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0766-toeplitz-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0766-toeplitz-matrix) |
 | [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
+| [0766-toeplitz-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0766-toeplitz-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
