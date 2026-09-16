@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
