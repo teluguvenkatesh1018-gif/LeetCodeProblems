@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2784-check-if-array-is-good](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -221,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
