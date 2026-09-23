@@ -1,13 +1,15 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        StringBuilder sb = new StringBuilder(magazine);
-        for(char c:ransomNote.toCharArray()){
-            int index = sb.indexOf(String.valueOf(c));
-            if(index == -1){
-                return false;
-            }
-            sb.deleteCharAt(index);
+        HashMap<Character,Integer> map = new HashMap<>();
+        for(char c : magazine.toCharArray()){
+            map.put(c,map.getOrDefault(c,0)+1);
         }
-        return true;
+            for(char c : ransomNote.toCharArray()){
+                if(!map.containsKey(c) || map.get(c) == 0){
+                    return false;
+                }
+                map.put(c,map.get(c) - 1);
+            }return true;
+        }
+
     }
-}
