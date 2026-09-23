@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
 | [0416-partition-equal-subset-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -170,16 +171,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
 | [0766-toeplitz-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1380-lucky-numbers-in-a-matrix) |
