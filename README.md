@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2784-check-if-array-is-good](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 ## Trie
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
