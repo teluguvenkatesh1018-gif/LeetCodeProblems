@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
 | [0416-partition-equal-subset-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0682-baseball-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0766-toeplitz-matrix) |
 | [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -172,18 +173,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1559-detect-cycles-in-2d-grid) |
