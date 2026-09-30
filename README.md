@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
