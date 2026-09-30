@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
 | [0416-partition-equal-subset-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0766-toeplitz-matrix) |
