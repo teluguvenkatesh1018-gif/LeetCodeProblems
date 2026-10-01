@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [1668-maximum-repeating-substring](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1668-maximum-repeating-substring) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
+| [1668-maximum-repeating-substring](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1668-maximum-repeating-substring) |
 ## Depth-First Search
 |  |
 | ------- |
