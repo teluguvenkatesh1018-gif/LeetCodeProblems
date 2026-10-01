@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/teluguvenkatesh1018-gif/LeetCodeProblems/tree/master/0392-is-subsequence) |
